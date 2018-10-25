@@ -1,2 +1,2 @@
 # assistantAgent
-an artificial agent built from scratch
+an artificial intelligence agent being built from scratch
